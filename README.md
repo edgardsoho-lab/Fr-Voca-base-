@@ -1,2 +1,2 @@
 # Fr-Voca-base-
-Application pour apprendre efficacement le français. 
+Application pour apprendre efficacement le français. en ligne
